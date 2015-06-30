@@ -1,0 +1,8 @@
+forge "https://forgeapi.puppetlabs.com"
+
+mod 'puppetlabs-stdlib'
+mod 'puppetlabs-apache'
+mod 'puppetlabs-mysql'
+mod 'example42-php'
+mod 'example42-network'
+
